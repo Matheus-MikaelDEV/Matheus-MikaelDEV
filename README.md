@@ -5,7 +5,7 @@
 - 🌱 Estou estudando atualmente Java
 
 ![Matheus Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-MikaelDEV&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-MikaelDEV&layout=compact)](https://github.com/Matheus-MikaelDEV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-MikaelDEV&layout=donut)](https://github.comMatheus-MikaelDEV/github-readme-stats)
 <br>
 #
 
